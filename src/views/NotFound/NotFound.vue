@@ -1,15 +1,15 @@
 <template>
-    <div>{{msg}}</div>
+  <div>{{msg}}</div>
 </template>
 <style>
 
 </style>
 <script>
-    export default{
-        data(){
-            return{
-                msg:'404 NotFound'
-            }
-        }
+export default{
+  data () {
+    return {
+      msg: '404 NotFound'
     }
+  }
+}
 </script>

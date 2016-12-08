@@ -1,8 +1,8 @@
-import NotFoundView from './views/NotFound/NotFound.vue'
+import NotFoundView from './pages/NotFound/NotFound.vue'
 
-import IndexView from './views/Index/Index.vue'
-import HomeView from './views/Index/Home.vue'
-import AboutView from './views/Index/About.vue'
+import IndexView from './pages/Index/Index.vue'
+import HomeView from './pages/Index/Home.vue'
+import AboutView from './pages/Index/About.vue'
 
 // Routes
 const routes = [
